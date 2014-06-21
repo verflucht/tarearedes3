@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  20 JUN 2014 20:24
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  20 JUN 2014 21:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -850,27 +850,6 @@ iply defined.
 
 LaTeX Warning: Label `tab:widgets' multiply defined.
 
-
-LaTeX Warning: Label `tab:widgets' multiply defined.
-
-
-LaTeX Warning: Label `tab:widgets' multiply defined.
-
-
-LaTeX Warning: Label `tab:widgets' multiply defined.
-
-
-LaTeX Warning: Label `tab:widgets' multiply defined.
-
-
-LaTeX Warning: Label `tab:widgets' multiply defined.
-
-
-LaTeX Warning: Label `tab:widgets' multiply defined.
-
-
-LaTeX Warning: Label `tab:widgets' multiply defined.
-
 )
 \openout1 = `informe.aux'.
 
@@ -981,10 +960,14 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 22.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
+
 <ss1.png, id=43, 1278.7775pt x 607.26875pt>
 File: ss1.png Graphic file (type png)
  <use ss1.png>
-Package pdftex.def Info: ss1.png used on input line 37.
+Package pdftex.def Info: ss1.png used on input line 41.
 (pdftex.def)             Requested size: 557.38951pt x 264.6972pt.
  [1
 
@@ -993,80 +976,81 @@ ng>]
 <ss2.png, id=55, 1279.78125pt x 598.235pt>
 File: ss2.png Graphic file (type png)
  <use ss2.png>
-Package pdftex.def Info: ss2.png used on input line 52.
+Package pdftex.def Info: ss2.png used on input line 56.
 (pdftex.def)             Requested size: 557.38951pt x 260.5496pt.
 
 <ss3.png, id=56, 863.225pt x 235.88126pt>
 File: ss3.png Graphic file (type png)
  <use ss3.png>
-Package pdftex.def Info: ss3.png used on input line 63.
+Package pdftex.def Info: ss3.png used on input line 67.
 (pdftex.def)             Requested size: 557.38951pt x 152.3132pt.
  [2 <./ss2.png> <./ss3.png>] <ss5.png, id=64, 562.1pt x 223.83624pt>
 File: ss5.png Graphic file (type png)
  <use ss5.png>
-Package pdftex.def Info: ss5.png used on input line 75.
+Package pdftex.def Info: ss5.png used on input line 79.
 (pdftex.def)             Requested size: 557.38951pt x 221.97426pt.
 
 <ss4.png, id=65, 1277.77374pt x 602.25pt>
 File: ss4.png Graphic file (type png)
  <use ss4.png>
-Package pdftex.def Info: ss4.png used on input line 84.
+Package pdftex.def Info: ss4.png used on input line 88.
 (pdftex.def)             Requested size: 557.38951pt x 262.71179pt.
  [3 <./ss5.png> <./ss4.png>] <au1.png, id=72, 715.67375pt x 200.75pt>
 File: au1.png Graphic file (type png)
  <use au1.png>
-Package pdftex.def Info: au1.png used on input line 97.
+Package pdftex.def Info: au1.png used on input line 101.
 (pdftex.def)             Requested size: 557.38951pt x 156.36075pt.
 
 <au4.png, id=73, 223.83624pt x 183.68625pt>
 File: au4.png Graphic file (type png)
  <use au4.png>
-Package pdftex.def Info: au4.png used on input line 106.
+Package pdftex.def Info: au4.png used on input line 110.
 (pdftex.def)             Requested size: 278.69475pt x 228.72713pt.
  [4 <./au1.png> <./au4.png>] <au2.png, id=80, 1279.78125pt x 597.23125pt>
 File: au2.png Graphic file (type png)
  <use au2.png>
-Package pdftex.def Info: au2.png used on input line 117.
+Package pdftex.def Info: au2.png used on input line 121.
 (pdftex.def)             Requested size: 557.38951pt x 260.11244pt.
- [5 <./au2.png>] [6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 140.
+ [5 <./au2.png>] <g1.png, id=86, 1274.7625pt x 289.08pt>
+File: g1.png Graphic file (type png)
+ <use g1.png>
+Package pdftex.def Info: g1.png used on input line 134.
+(pdftex.def)             Requested size: 557.38951pt x 126.39719pt.
+ [6 <./g1.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 198.
  [7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 140.
- (./informe.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 140.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 140.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 198.
 
+(./informe.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 198.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 198.
+Package rerunfilecheck Info: File `informe.out' has not changed.
+(rerunfilecheck)             Checksum: 59620A66F8E1CE2EA3B05883080B60F2;592.
 
-Package rerunfilecheck Warning: File `informe.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `informe.out':
-(rerunfilecheck)             Before: 59F8B999491B1225BD629E2165FAED3A;580
-(rerunfilecheck)             After:  59620A66F8E1CE2EA3B05883080B60F2;592.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 140.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 198.
  ) 
 Here is how much of TeX's memory you used:
- 17453 strings out of 493315
- 299010 string characters out of 6137904
- 380127 words of memory out of 5000000
- 20561 multiletter control sequences out of 15000+600000
+ 17463 strings out of 493315
+ 299131 string characters out of 6137904
+ 390184 words of memory out of 5000000
+ 20567 multiletter control sequences out of 15000+600000
  11503 words of font info for 45 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 63i,7n,57p,742b,341s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 63i,9n,57p,746b,339s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
 /usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
 sr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
-/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on informe.pdf (7 pages, 539828 bytes).
+/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/l
+ocal/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on informe.pdf (7 pages, 586996 bytes).
 PDF statistics:
- 124 PDF objects out of 1000 (max. 8388607)
- 100 compressed objects within 1 object stream
- 25 named destinations out of 1000 (max. 500000)
- 125 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 133 PDF objects out of 1000 (max. 8388607)
+ 106 compressed objects within 2 object streams
+ 28 named destinations out of 1000 (max. 500000)
+ 130 words of extra memory for PDF output out of 10000 (max. 10000000)
 
